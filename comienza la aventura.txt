@@ -1,0 +1,75 @@
+comienza la aventura
+
+Publico en este tipo de bitacora todo lo que he aprendido sobre desarrollo web, decidi 
+hacer esto para tener un seguimiento de mi avanze y ver como cada dia aprendo nuevas cosas.
+
+Cada dia avanzo en mi viaje en el cual mi meta es ser desarrollador de paginas web,
+ya creo que se cual es el camino a seguir. Voy a decirlo ordenadamente:
+-saber como funciona internet (Http, DNS, Browsers, etc)
+-Git y GitHub (control de versiones)
+-HTML y CSS
+-Javascript
+... luego agregare mas
+
+Utilizar como guia el curso the odin project y el road map hecho por kamranahmedse
+
+Solo tengo la bitacora registrada desde el 27 de febrero de 2021 pero puedo hacerles
+una idea de lo que hice antes
+Enero y febrero del 2021: Introduccion a la web, leer acerca de ella, mirar las herramientas
+que se utilizan, ver los distintos metodos de aprendizaje, comandos basicos de la consola
+de linux.  
+
+Bitacora
+27 febrero 2021: Aprendiendo comandos basicos de Git y a utilizarlos en mi consola
+	Como lo son git init ,add, push, clone, pull, diff, commit, y un largo etc.
+
+28 febrero 2021: Puse en practica los comandos y cree mi repositorio en github
+	Cree mi cuenta con git hub y practique con un repositorio llamado git_test
+	Ademas agrege  este proyecto alli.
+
+Lanze la version 0.1 de este proyecto personal
+
+1 de marzo 2021: Aprender que es el Front end, una introduccion a html, css y javascript 
+	Guarde muchos enlaces que de pronto me serviran, diria que son como
+	documentacion de Html, css y javascript. tambien vi la guia de desarrollo web
+	de traversy media.
+
+2 marzo 2021: Aprendi la sintaxis y los distintos elementos de texto de HTML
+	Aprendi la importancia de los headers en HTML y  como usar las etiquetas
+	<p>, <em>, <strong>. aplique nesting en html. En general un poco de la
+	semantica.
+
+3 marzo 2021: Conozco html nivel medio
+	termine con el curso de html de freecodecamp, tambien vi un video de youtube
+	como de una hora explicando html, ya soy capaz de crear mi propio archivo
+	html :)
+
+5 marzo 2021: complete basic css de freecodecamp
+	Aprendi mucho sobre css, creo que en un solo dia no podre aprender todo de una vez pero almenos ya tengo una idea de como funciona.
+
+6 marzo 2021: vi un video acerca de css traversy media.
+El video me parecio muy bueno porque me dio una idea de como se trabaja con css y aprendi algunos trucos que no sabia que se podian hacer con css. 
+
+7 de marzo 2021: avanzo con el curso de freecodecamp
+aprendo sobre Diseño visual aplicado o almenos esa seria la traduccion. tambien en estos momentos estoy aprendiendo ingles.
+si no avanzo mucho es porque tambien tengo que realizar otras cosas y no me tengo tanto tiempo para estudiar.
+
+lanze la version 0.2
+8 de marzo 2021: aprendiendo sobre arquitecturas web MVC y capas
+Estuve estudiando sobre las arquitecturas de software porque era un termino que desconocia y aprendi sobre el modelo vista controlador (MVC) que fue adoptado por la web y muchos otros patrones de arquitecturas.
+
+9 de marzo 2021: Leo mas sobre patrones de arquitecturas
+Mas y mas sobre patrones de diseño y arquitecturas, creo que me sali un poco de lo que es la web pero igual tengo que tener conocimiento en estos temas si voy a desarrollar software.
+
+10 de marzo 2021: Fundamentos de la web
+Veo un curso sobre fundamentos web. ademas de que consegui un curso de udemy de desarrollo web
+
+11 de marzo 2021: Colores CSS
+Aprendo sobre los colores y el impacto que tiene sobre nuestro cerebro. incluyendo algunas reglas de los colores.
+
+12 de marzo 2021: Termino la parte diseño visual aplicado
+En donde aprendi muchas cosas de diseño como animaciones en css. posiblemente se me olvide porque no estaba facil como html pero creo que ya tengo una idea de diseño de css basico.
+
+13 marzo 2021: Aprendiendo a mejorar la accesibilidad de html y perdi una maquina virtual
+Termino la parte de free code camp llamado accesibilidad aplicado. me gusta mas aprender sobre html que css. no me gusta perder tanto tiempo haciendo que algo se vea bien. Hoy no puedo acceder a la maquina virtual donde tenia linux, alli practicaba los comandos basicos de git y github. me toca instalar git en windows.
+
